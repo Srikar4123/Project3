@@ -17,11 +17,14 @@ Azure Health Bot
 
 ## Features and Functionalities 😃
 
-- Interactive and responsive UI.
 - Has many graphical and visual innovative effects.
 - Have an aesthetically pleasing visual design and architecture.
 - Has collection of many web pages including Home, About Us, Contact, Menu, information related to the tourist spots.
-- Included the contact form to solve the user queries
+
+## Note
+
+This website is just a model of a customised travel booking website built for the sake of the project and the form which customises the users request is just a demo to showcase my skills, but the page where you fill your details for customisation doesn't take inputs because of not being connected to the database and some of the links provided in the website might malfunction. Forgive me if anything malfunctions.
+
 ## Screenshots
 
 
